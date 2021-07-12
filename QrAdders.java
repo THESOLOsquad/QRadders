@@ -1,33 +1,11 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.   djfbsadijfbsdajbfsadlfbsadjfbsdafjbsadjfbsdfdfdf
- ds
- fsd
- f
- sd
- fsd
- f
- sdf
- sd
- f
- sdf
- sd
- fsd
- f
- sdf
- sd
- f
- sdf
- sdf
- sd
- fsd
- f
- sdf
- sdf
- sd
- f
+ * and open the template in the editor.  
  */
+
+
+
 // this project is for only learing purpose. thank u
 package qr.adders;
 import java.io.File;
